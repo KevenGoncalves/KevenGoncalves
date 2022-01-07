@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevenGoncalves
 - 👀 I’m interested in Hacking and Code
-- 🌱 I’m currently learning Python,Vue.js and Laravel
-- 💞️ I’m looking to collaborate on eDevs from Explicador
+- 🌱 I’m currently learning Python, Angular , MongoDB and NodeJs
+- 💞️ I’m looking to collaborate at SavanaPoint
 - 📫 keven.jm.goncalves@gmail.com
 
 <!---
