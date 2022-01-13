@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevenGoncalves
 - 👀 I’m interested in Hacking and Code
-- 🌱 I’m currently learning Python, Angular , MongoDB and NodeJs
+- 🌱 I’m currently learning Python, Angular , MongoDB , NodeJs and NextJs
 - 💞️ I’m looking to collaborate at SavanaPoint
 - 📫 keven.jm.goncalves@gmail.com
 
