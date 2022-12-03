@@ -66,7 +66,7 @@ Thankfully for some of the startups and companies I worked and interned I learne
 
 Wanna work with me?
 Or need a help?
-Send a message 😊
+Send a message 😊 [click here!](mailto:keven.jm.goncalves@gmail.com)
 
 ![https://github.com/KevenGoncalves](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![https://www.instagram.com/kevenjmg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) ![https://web.facebook.com/keven.goncalves.148](https://img.shields.io/badge/Facebook-0098E0?style=for-the-badge&logo=Facebook&logoColor=white) ![mailto:keven.jm.goncalves@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) ![https://www.linkedin.com/in/keven-gon%C3%A7alves-5867661a9/](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
 
