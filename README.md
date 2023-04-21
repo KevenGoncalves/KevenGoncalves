@@ -5,15 +5,15 @@
 ## 🖥️ About me
 
 I'm Keven José Manuel Gonçalves, a FullStack Web Developer mainly focused in JavaScript and Python Technologies and started to learn Go.
-I have many experience with many frameworks thanks to the SavanaPoint Startup.
+I have lot of experience with many frameworks thanks to the SavanaPoint Startup.
 
 ## 🍃 What I do in free time?
 
-In my free time I prefer to play videos games, watch animes and series and sometimes go to the beach to relax
+In my free time I prefer to play videos games, watch animes and series, and sometimes I go to the beach to relax
 
 ## 🤔 What I Know?
 
-Well I know how to work with several Technologies like:
+Well, I know how to work with several Technologies like:
 
 ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
@@ -52,7 +52,7 @@ Well I know how to work with several Technologies like:
 -   Firebase
 -   MongoDB
 
-Well and another things I consider as a skill like work with ORMs , Baas and so on
+And another things I consider as a skill like work with ORMs , Baas and so on
 
 ## 🏆 Achievements
 
