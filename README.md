@@ -1,76 +1,109 @@
-# Hi there! 👋
+<!--
+  GitHub profile README for KevenGoncalves/KevenGoncalves.
+  The banner and contact cards are generated from the portfolio: `pnpm build && pnpm github:banner` (scripts/github-banner.mjs).
+  TODO: replace https://kevengoncalves.example with the portfolio's real address once it's deployed (banner link + portfolio card).
+-->
 
+<p align="center">
+  <a href="https://kevengoncalves.example">
+    <img src="./banner.svg" alt="Keven Gonçalves — Backend & Mobile Developer. I make sauce, but not in the kitchen." width="100%" />
+  </a>
+</p>
 
+---
 
-## 🖥️ About me
+### `01` &nbsp;About
 
-I'm Keven José Manuel Gonçalves, a FullStack Web Developer mainly focused in JavaScript and Python Technologies and started to learn Go.
-I have lot of experience with many frameworks thanks to the SavanaPoint Startup.
+I'm a developer driven by curiosity about how things really work — from the low-level details all the way up to the high-level design. I love digging deep to understand a system inside and out, then using that knowledge to build great things for great people.
 
-## 🍃 What I do in free time?
+Currently a **Software Developer at Cornelder de Moçambique**, building fast, reliable native mobile apps — implementing **OCR solutions** in our mobile apps and building **internal SDKs**. Before that I worked mainly as a **full-stack developer** for both established companies and startups, taking features from the database all the way to the interface.
 
-In my free time I prefer to play videos games, watch animes and series, and sometimes I go to the beach to relax
+```kotlin
+object Keven {
+    val location   = "Beira, Mozambique 🇲🇿"
+    val role       = "Software Developer @ Cornelder de Moçambique"
+    val focus      = listOf("Native Android & iOS", "OCR on mobile", "Internal SDKs", "Backend", "LLM-powered tools")
+    val education  = "BSc Computer Engineering — Universidade Zambeze (2025)"
+    val languages  = listOf("Portuguese (native)", "English")
+    val funFact    = "Captained Mozambique's national robotics team at the FIRST Global Challenge 2019 🤖"
+    val offline    = "Family time and my beloved video games 🎮"
+}
+```
 
-## 🤔 What I Know?
+### `02` &nbsp;Stack
 
-Well, I know how to work with several Technologies like:
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,flutter&theme=dark" alt="Kotlin, Android, Swift, Flutter" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,django,py,php,graphql&theme=dark" alt="Go, Node.js, NestJS, Express, Django, Python, PHP, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,vue,angular&theme=dark" alt="TypeScript, React, Next.js, Svelte, Vue, Angular" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase, Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,jenkins&theme=dark" alt="Git, GitHub, Jenkins" /></td>
+  </tr>
+</table>
 
-![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+### `03` &nbsp;Things I've built
 
--   NestJS
--   ExpressJS
--   NextJs
--   SvelteKit
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>JHC Stowage System</h4>
+      Operations platform for stevedoring work in Mozambique: tracks cargo operations, assigns crews to daily shifts and shows labour costs in real time.
+    </td>
+    <td width="50%" valign="top">
+      <h4>TMB Transport System</h4>
+      Ticketing and fleet platform for public transport: ticket sales, routes, fares and passes, with real-time revenue and peak-hour analytics.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Dynamis</h4>
+      Point-of-sale app to manage products, run sales sessions and print receipts at the counter.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Acadêmico-Portal</h4>
+      Student app for Universidade Católica de Moçambique, bringing students' academic life into one place.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>Company websites</h4>
+      Websites built for i2a, Grupo Lumai, OptiServ, JHC and Minds.
+    </td>
+  </tr>
+</table>
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+### `04` &nbsp;GitHub
 
--   FastAPI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevenGoncalves&show_icons=true&hide_border=true&bg_color=09090b&title_color=ff6467&icon_color=00f0ff&text_color=d4d4d8&ring_color=ff6467&rank_icon=github" alt="Keven's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenGoncalves&layout=compact&hide_border=true&bg_color=09090b&title_color=ff6467&text_color=d4d4d8" alt="Most used languages" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KevenGoncalves&hide_border=true&background=09090b&ring=ff6467&fire=ff6467&currStreakLabel=00f0ff&sideLabels=d4d4d8&currStreakNum=f4f4f5&sideNums=f4f4f5&dates=71717a&stroke=27272a" alt="Contribution streak" />
+</p>
 
-![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white)
+### `05` &nbsp;Let's talk
 
--   Laravel
+Have a project in mind, a role to fill, or just want to talk tech? My inbox is open.
 
-![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+<p align="center">
+  <a href="mailto:keven.jm.goncalves@gmail.com"><img src="./contact-email.svg" alt="Email — keven.jm.goncalves@gmail.com" width="32%" /></a>
+  <a href="https://www.linkedin.com/in/keven-gon%C3%A7alves-5867661a9/"><img src="./contact-linkedin.svg" alt="LinkedIn — in/keven-gonçalves" width="32%" /></a>
+  <a href="https://kevengoncalves.example"><img src="./contact-portfolio.svg" alt="Portfolio — projects, experience and CV" width="32%" /></a>
+</p>
 
--   Fiber
-
-![css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-
--   TailwindCSS
--   Bootstrap
--   BulmaCSS
-
-![graphql](https://img.shields.io/badge/API-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-
--   REST
--   GraphQL
--   RPC
-
-![firebase](https://img.shields.io/badge/Databases-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
-
--   MySQL
--   Firebase
--   MongoDB
-
-And another things I consider as a skill like work with ORMs , Baas and so on
-
-## 🏆 Achievements
-
-Thankfully for some of the startups and companies I worked and interned I learned a lot some of them was:
-
--   Explicador Inc : As a QA Tester
--   Txeká-lá : As a BackEnd Developer
--   SavanaPoint : As a FullStack Developer
-
-## 📞 Contacts
-
-Wanna work with me?
-Or need a help?
-Send a message 😊 [click here!](mailto:keven.jm.goncalves@gmail.com)
-
-![https://github.com/KevenGoncalves](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![https://www.instagram.com/kevenjmg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) ![https://web.facebook.com/keven.goncalves.148](https://img.shields.io/badge/Facebook-0098E0?style=for-the-badge&logo=Facebook&logoColor=white) ![mailto:keven.jm.goncalves@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) ![https://www.linkedin.com/in/keven-gon%C3%A7alves-5867661a9/](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
-
-<!---
-KevenGoncalves/KevenGoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><sub>I make <b>sauce</b>, but not in the kitchen.</sub></p>
