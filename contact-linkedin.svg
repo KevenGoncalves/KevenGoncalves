@@ -43,8 +43,9 @@
 
     <text x="33" y="134" fill="#a1a1aa" class="detail">in/keven-gonçalves</text>
 
-    <!-- Glitch accent: cyan and red halves -->
+    <!-- Glitch accent: cyan and red halves 
     <rect x="0" y="147" width="200" height="3" fill="#00f0ff"/>
     <rect x="200" y="147" width="200" height="3" fill="#ff6467"/>
+    -->
   </g>
 </svg>
