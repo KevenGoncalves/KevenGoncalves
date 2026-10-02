@@ -55,38 +55,8 @@ object Keven {
   </tr>
 </table>
 
-### `03` &nbsp;Things I've built
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>JHC Stowage System</h4>
-      Operations platform for stevedoring work in Mozambique: tracks cargo operations, assigns crews to daily shifts and shows labour costs in real time.
-    </td>
-    <td width="50%" valign="top">
-      <h4>TMB Transport System</h4>
-      Ticketing and fleet platform for public transport: ticket sales, routes, fares and passes, with real-time revenue and peak-hour analytics.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Dynamis</h4>
-      Point-of-sale app to manage products, run sales sessions and print receipts at the counter.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Acadêmico-Portal</h4>
-      Student app for Universidade Católica de Moçambique, bringing students' academic life into one place.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>Company websites</h4>
-      Websites built for i2a, Grupo Lumai, OptiServ, JHC and Minds.
-    </td>
-  </tr>
-</table>
-
-### `04` &nbsp;GitHub
+### `03` &nbsp;GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevenGoncalves&show_icons=true&hide_border=true&bg_color=09090b&title_color=ff6467&icon_color=00f0ff&text_color=d4d4d8&ring_color=ff6467&rank_icon=github" alt="Keven's GitHub stats" height="170" />
@@ -96,7 +66,7 @@ object Keven {
   <img src="https://streak-stats.demolab.com?user=KevenGoncalves&hide_border=true&background=09090b&ring=ff6467&fire=ff6467&currStreakLabel=00f0ff&sideLabels=d4d4d8&currStreakNum=f4f4f5&sideNums=f4f4f5&dates=71717a&stroke=27272a" alt="Contribution streak" />
 </p>
 
-### `05` &nbsp;Let's talk
+### `04` &nbsp;Let's talk
 
 Have a project in mind, a role to fill, or just want to talk tech? My inbox is open.
 
