@@ -39,7 +39,7 @@ object Keven {
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,django,py,php,graphql&theme=dark" alt="Go, Node.js, NestJS, Express, Django, Python, PHP, GraphQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,java,kotlin,django,py,php,graphql&theme=dark" alt="Go, Node.js, NestJS, Express, Java, Kotlin, Django, Python, PHP, GraphQL" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
